@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 import sys
 
 bases_ = { 'x': 16, 'o': 8, 'd': 10, 'b': 2 }
